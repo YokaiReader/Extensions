@@ -10358,10 +10358,10 @@
   {
     "name": "Tachiyomi: Flame Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.flamecomics",
-    "apk": "tachiyomi-en.flamecomics-v1.4.46.apk",
+    "apk": "tachiyomi-en.flamecomics-v1.4.47.apk",
     "lang": "en",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 0,
     "sources": [
       {
@@ -11539,6 +11539,24 @@
         "lang": "en",
         "id": "987549744200556532",
         "baseUrl": "https://kunmanga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Lagoon Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.lagoonscans",
+    "apk": "tachiyomi-en.lagoonscans-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Lagoon Scans",
+        "lang": "en",
+        "id": "7925933833035450162",
+        "baseUrl": "https://lagoonscans.com",
         "versionId": 1
       }
     ]
@@ -12842,10 +12860,10 @@
   {
     "name": "Tachiyomi: MangaTaro",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangataro",
-    "apk": "tachiyomi-en.mangataro-v1.4.5.apk",
+    "apk": "tachiyomi-en.mangataro-v1.4.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "sources": [
       {
@@ -14220,6 +14238,24 @@
         "lang": "en",
         "id": "1938195875614354298",
         "baseUrl": "https://read.oppai.stream",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Paradise Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.paradisescans",
+    "apk": "tachiyomi-en.paradisescans-v1.4.18.apk",
+    "lang": "en",
+    "code": 18,
+    "version": "1.4.18",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "ParadiseScans",
+        "lang": "en",
+        "id": "5928300995303689257",
+        "baseUrl": "https://paradisescans.com",
         "versionId": 1
       }
     ]
@@ -19513,6 +19549,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Siren Scans FR",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.sirenscansfr",
+    "apk": "tachiyomi-fr.sirenscansfr-v1.4.18.apk",
+    "lang": "fr",
+    "code": 18,
+    "version": "1.4.18",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Siren Scans FR",
+        "lang": "fr",
+        "id": "9130638185861146476",
+        "baseUrl": "https://sirenscans.fr",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Soft Epsilon Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.softepsilonscan",
     "apk": "tachiyomi-fr.softepsilonscan-v1.4.47.apk",
@@ -22017,10 +22071,10 @@
   {
     "name": "Tachiyomi: RawINU",
     "pkg": "eu.kanade.tachiyomi.extension.ja.rawinu",
-    "apk": "tachiyomi-ja.rawinu-v1.4.12.apk",
+    "apk": "tachiyomi-ja.rawinu-v1.4.13.apk",
     "lang": "ja",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 1,
     "sources": [
       {
@@ -24975,10 +25029,10 @@
   {
     "name": "Tachiyomi: Nude-Moon",
     "pkg": "eu.kanade.tachiyomi.extension.ru.nudemoon",
-    "apk": "tachiyomi-ru.nudemoon-v1.4.24.apk",
+    "apk": "tachiyomi-ru.nudemoon-v1.4.25.apk",
     "lang": "ru",
-    "code": 24,
-    "version": "1.4.24",
+    "code": 25,
+    "version": "1.4.25",
     "nsfw": 1,
     "sources": [
       {
@@ -26649,10 +26703,10 @@
   {
     "name": "Tachiyomi: Manga-TR",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangatr",
-    "apk": "tachiyomi-tr.mangatr-v1.4.15.apk",
+    "apk": "tachiyomi-tr.mangatr-v1.4.16.apk",
     "lang": "tr",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 1,
     "sources": [
       {
@@ -27855,17 +27909,17 @@
   {
     "name": "Tachiyomi: TruyenQQ",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenqq",
-    "apk": "tachiyomi-vi.truyenqq-v1.4.19.apk",
+    "apk": "tachiyomi-vi.truyenqq-v1.4.20.apk",
     "lang": "vi",
-    "code": 19,
-    "version": "1.4.19",
+    "code": 20,
+    "version": "1.4.20",
     "nsfw": 0,
     "sources": [
       {
         "name": "TruyenQQ",
         "lang": "vi",
         "id": "2553532324170433933",
-        "baseUrl": "https://truyenqqgo.com",
+        "baseUrl": "https://truyenqqno.com",
         "versionId": 1
       }
     ]
