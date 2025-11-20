@@ -1,6 +1,6 @@
 [
   {
-    "name": "Tachiyomi: AHottie",
+    "name": "Yōkai: AHottie",
     "pkg": "eu.kanade.tachiyomi.extension.all.ahottie",
     "apk": "tachiyomi-all.ahottie-v1.4.1.apk",
     "lang": "all",
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: Akuma",
+    "name": "Yōkai: Akuma",
     "pkg": "eu.kanade.tachiyomi.extension.all.akuma",
     "apk": "tachiyomi-all.akuma-v1.4.7.apk",
     "lang": "all",
